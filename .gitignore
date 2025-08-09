@@ -1,7 +1,4 @@
-# Pliki generowane przez Python
 __pycache__/
 venv/
 *.pyc
-
-# Pliki środowiskowe (jeśli używasz)
 .env
